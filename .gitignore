@@ -1,0 +1,10 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+.history
+__DropboxIgnore_nodemodules.ps1
+__DropboxIgnore_.git.ps1
+__LaunchVSCode.bat
+__PowerShellHere.bat

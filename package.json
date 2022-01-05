@@ -1,0 +1,16 @@
+{
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "decription": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node \"./index.js\"",
+    "test": "node \"./test.js\"",
+    "explore": "start ."
+  },
+  "keywords": [],
+  "author": "GiingY <giingy@gmail.com> (https://gmench.com/)",
+  "private": "true",
+  "license": "UNLICENSED"
+}
